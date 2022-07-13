@@ -1,6 +1,6 @@
 # Hotel management in java using java servlet
 
-The project consists in displaying the customers that are accommodated in the hotel rooms along with the room attendant (from staff) assigned.<br/>
+The project consists in displaying the assignment of customers and room attendands (from staff) in the hotel rooms.<br/>
 - Tables used:
   1. customers
   2. login
