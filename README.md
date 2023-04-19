@@ -1,6 +1,5 @@
-# Hotel management in java using java servlet
+# Java Spring Hotel Management System
 
-The project consists in displaying the assignment of customers and room attendands (from staff) in the hotel rooms.<br/>
 - Tables used:
   1. customers
   2. login
